@@ -7,6 +7,9 @@ This project focuses on building a modern data warehouse using SQL Server to int
 The workflow includes loading raw data, cleaning and standardizing it through ETL pipelines, and organizing it into a structured data model using a star schema. I also use SQL to analyze customer behavior, product performance, and sales trends to generate business insights and support data-driven decision-making.
 
 Through this project, I aim to strengthen my SQL skills, understand the data engineering workflow, and learn how to transform raw data into reliable, analysis-ready datasets.
+
+##
+
 Languages / Tools
 
 - Python: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
